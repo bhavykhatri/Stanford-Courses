@@ -83,3 +83,40 @@ Stanford Courses Links:
 |cs279|[CS279: Structure and Organization of Biomolecules and Cells](http://web.stanford.edu/class/cs279)|
 |cs295|[Index of /class/cs295](http://web.stanford.edu/class/cs295)|
 |cs298|[CS298 Spring 2019](http://web.stanford.edu/class/cs298)|
+|cs301|[CS 301, section 01](http://web.stanford.edu/class/cs301)|
+|cs316|[Index of /class/cs316](http://web.stanford.edu/class/cs316)|
+|cs323|[ CS 323: Understanding Images and Videos: Recognizing and Learning High-Level Visual Concepts](http://web.stanford.edu/class/cs323)|
+|cs326|[CS 326 - Topics in Advanced Robotic Manipulation](http://web.stanford.edu/class/cs326)|
+|cs330|[CS 330 Deep Multi-Task and Meta Learning](http://web.stanford.edu/class/cs330)|
+|cs331|[Index of /class/cs331](http://web.stanford.edu/class/cs331)|
+|cs332|[CS332: Advanced Survey of Reinforcement Learning](http://web.stanford.edu/class/cs332)|
+|cs336|[Stanford University CS336: Robot Learning and Decision Making](http://web.stanford.edu/class/cs336)|
+|cs339|[CS339: Eigenvalue Computations](http://web.stanford.edu/class/cs339)|
+|cs341|[CS341 | Home](http://web.stanford.edu/class/cs341)|
+|cs342|[Building for Digital Health (CS342/MED253)](http://web.stanford.edu/class/cs342)|
+|cs343|[CS 343](http://web.stanford.edu/class/cs343)|
+|cs345|[CS 345: Topics in Data Warehousing](http://web.stanford.edu/class/cs345)|
+|cs347|[Index of /class/cs347](http://web.stanford.edu/class/cs347)|
+|cs349|[CS 349 Winter 2007](http://web.stanford.edu/class/cs349)|
+|cs354|[CS 354: Topics in Intractability: Unfulfilled Algorithmic Fantasies (Spring 2019)](http://web.stanford.edu/class/cs354)|
+|cs356|[Index of /class/cs356](http://web.stanford.edu/class/cs356)|
+|cs368|[CS 368](http://web.stanford.edu/class/cs368)|
+|cs369|[CS369F Class Page](http://web.stanford.edu/class/cs369)|
+|cs371|[CS 371](http://web.stanford.edu/class/cs371)|
+|cs376|[Index of /class/cs376](http://web.stanford.edu/class/cs376)|
+|cs378|[CS 378](http://web.stanford.edu/class/cs378)|
+|cs384|[ Seminar on Ethical and Social Issues in Natural Language Processing](http://web.stanford.edu/class/cs384)|
+|cs398|[CS398](http://web.stanford.edu/class/cs398)|
+|cs400|[Future Faculty Seminar](http://web.stanford.edu/class/cs400)|
+|cs401|[CS401:  Computer Science Policy Research Seminar](http://web.stanford.edu/class/cs401)|
+|cs422|[CS 422: Intelligent Avatars Lab](http://web.stanford.edu/class/cs422)|
+|cs426|[Index of /class/cs426](http://web.stanford.edu/class/cs426)|
+|cs428|[CS 428 Main Page](http://web.stanford.edu/class/cs428)|
+|cs442|[CS 442 - High Productivity and performance with Domain Specific Languages in Scala](http://web.stanford.edu/class/cs442)|
+|cs468|[Index of /class/cs468](http://web.stanford.edu/class/cs468)|
+|cs478|[Index of /class/cs478](http://web.stanford.edu/class/cs478)|
+|cs520|[ CS 520: Knowledge Graphs ](http://web.stanford.edu/class/cs520)|
+|cs528|[CS 528 -- Broad Area Colloquium for Artificial Intelligence,Geometry, Graphics, Robotics, and Computer Vision ](http://web.stanford.edu/class/cs528)|
+|cs545|[Stanford CS545: InfoSeminar](http://web.stanford.edu/class/cs545)|
+|cs547|[Index of /class/cs547](http://web.stanford.edu/class/cs547)|
+|cs666|[CS 666, section 01](http://web.stanford.edu/class/cs666)|
