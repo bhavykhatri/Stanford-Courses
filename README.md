@@ -24,14 +24,14 @@ Stanford Courses Links:
 |cs123|[CS 123: Programming Your Personal Robot](http://web.stanford.edu/class/cs123)|
 |cs124|[CS124 - From Languages to Information (Winter 2020)](http://web.stanford.edu/class/cs124)|
 |cs129|[CS129: Machine Learning](http://web.stanford.edu/class/cs129)|
-|cs131|[Index of /class/cs131](http://web.stanford.edu/class/cs131)|
+|cs131|[Computer Vision Foundation and Application](http://vision.stanford.edu/teaching/cs131_fall1920/index.html)|
 |cs137|[CS137: Introduction to Scientific Computing](http://web.stanford.edu/class/cs137)|
 |cs140|[CS 140: Operating Systems](http://web.stanford.edu/class/cs140)|
 |cs142|[CS142: Web Applications](http://web.stanford.edu/class/cs142)|
 |cs143|[CS143: Compilers](http://web.stanford.edu/class/cs143)|
 |cs144|[CS144 Fall 2019](http://web.stanford.edu/class/cs144)|
-|cs145|[Index of /class/cs145](http://web.stanford.edu/class/cs145)|
-|cs147|[Index of /class/cs147](http://web.stanford.edu/class/cs147)|
+|cs145|[DBMS](https://cs145-fa19.github.io/)|
+|cs147|[Design Thinking for User Experience Design, Prototyping & Evaluation](https://hci.stanford.edu/courses/cs147/2019/au/)|
 |cs148|[CS 148: Introduction to Computer Graphics and Imaging](http://web.stanford.edu/class/cs148)|
 |cs149|[Index of /class/cs149](http://web.stanford.edu/class/cs149)|
 |cs155|[Index of /class/cs155](http://web.stanford.edu/class/cs155)|
